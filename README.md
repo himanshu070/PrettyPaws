@@ -1,2 +1,2 @@
 # PrettyPaws
-A dating site for dogs.
+A dating app landing page for dogs.
